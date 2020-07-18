@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547442950218",
+    "firebase_url": "https://crossbow-26a82.firebaseio.com",
+    "project_id": "crossbow-26a82",
+    "storage_bucket": "crossbow-26a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547442950218:android:7f246923892239b5c526b3",
+        "android_client_info": {
+          "package_name": "com.example.crossbow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547442950218-q5smes1v6ah01v4f0kcu764asnq0slk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crossbow",
+            "certificate_hash": "7316ed0e45eaf6a55712cf5be8fc69fdaa363484"
+          }
+        },
+        {
+          "client_id": "547442950218-jq0omm1oia0578okerf7l0ro56mp44fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBCbPzyZhrbI-Yrr10S7f7TAtHevrNGxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547442950218-jq0omm1oia0578okerf7l0ro56mp44fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
